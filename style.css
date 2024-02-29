@@ -199,5 +199,6 @@ section > p {
 }
 
 .aboutcontainer{
+	display: flex;
 	justify-content: center;
 }
